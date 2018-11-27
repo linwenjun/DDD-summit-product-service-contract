@@ -3,6 +3,6 @@ request:
   url: /products
 response:
   status: 200 
-  bodyFromFile: goods_response.json
+  bodyFromFile: products_response.json
   headers:
     Content-Type: application/json;charset=UTF-8
